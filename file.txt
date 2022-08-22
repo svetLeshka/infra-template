@@ -5,7 +5,7 @@ echo $?
 if [ "$?" = "0" ]
 then echo "qq"
 fi
-for (( i=1; i <= 10; i++ ))
-do
-echo "number is $i"
-done
+echo 'test ts'
+npm run tes
+echo 'test test'
+npm run test
