@@ -6,6 +6,8 @@ if [ "$?" = "0" ]
 then echo "qq"
 fi
 echo 'test ts'
-npm run tes
+npm run ts
+echo 'test lint'
+npm run lint
 echo 'test test'
 npm run test
